@@ -1,6 +1,6 @@
 # PrivEsc-MindMap
 ## Purpose
-While studying for the OSCP, I created a consolidated PrivEsc checklist from combining others' methods into something that worked for me and my thought process. Then I thought it would be a great idea to generate something visually pleasing to keep me on track with my task to obtain root or system. It is not perfect by any means, but please feel free to drop a note if you have suggestions.
+While studying for the OSCP, I created a consolidated PrivEsc checklist from combining others' methods into something that worked for me and my thought process. Then I thought it would be a great idea to generate something visually pleasing to keep me on track with my task to obtain root or system. It is not perfect by any means, but please feel free to drop a note if you have suggestions. Hope this helps someone at the very least or get started to create something even cooler! Cheers and happy hacking!
 
 ## Tooling
 I used [XMind](https://www.xmind.net/) to generate my map.
