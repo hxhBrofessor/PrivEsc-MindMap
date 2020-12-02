@@ -7,12 +7,12 @@ I used [XMind](https://www.xmind.net/) to generate my map.
 
 ## Windows
 You can also access my creation directly on xmind, belive the resulotion may better as well. 
-[Windows PrivEsc](http://www.xmind.net/m/YFFcN8)
+
+Xmind Link: [Windows PrivEsc](http://www.xmind.net/m/YFFcN8)
 
 ![Windows MindMap](https://github.com/hxhBrofessor/PrivEsc-MindMap/blob/main/windows-mindMap.JPG)
 
 ## Linux 
-
-[Linux PrivEsc](http://www.xmind.net/m/jR2UxW)
+XMind Link: [Linux PrivEsc](http://www.xmind.net/m/jR2UxW)
 
 ![Linx MindMap](https://github.com/hxhBrofessor/PrivEsc-MindMap/blob/main/Linux-Privesc.JPG)
